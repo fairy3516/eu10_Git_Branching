@@ -9,6 +9,6 @@ public class TC002 {
 
         //creating a report
 
-        //screenshots in failure
+        //screenshot in failure
     }
 }
